@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadniumkun&label=Profile%20views&color=0e75b6&style=flat" alt="cadniumkun" /> </p>
 
-- 🔭 I’m currently working as a Mentor at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB)
+- 🔭 I’m currently teaching at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB)
 
 - 🌱 I’m currently learning **App Development with React native**
-
-- 💬 Ask me about **Django**
 
 - ⚡ Fun fact **Sheep are fluffy goats**
 
