@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cadniumkun&label=Profile%20views&color=0e75b6&style=flat" alt="cadniumkun" /> </p>
 
-- 🔭 I taught python at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB)
+- 🔭 I used to teach python at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB)
 
 - 🌱 I’m currently learning **App Development with React native**
 
-- ⚡ Fun fact **Sheep are fluffy goats**
+- 🐑 Fun fact **Sheep are fluffy goats**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
