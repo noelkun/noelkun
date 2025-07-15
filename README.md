@@ -7,7 +7,7 @@
 
 - 🐑 Fun fact **Sheep are fluffy goats**
 
-- 🔭 I used to teach python at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB)
+- 🔭 I used to teach python at [Moon Pheonix Club](https://github.com/MOON-PHOENIX-CLUB) , a student led coding club.
 
 
 <h3 align="left">Connect with me:</h3>
